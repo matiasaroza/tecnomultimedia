@@ -1,0 +1,4 @@
+El id del puerto para el HandPose siempre es 12000. 
+Tener la mano alejada de la cámara unos 30/40 cm. 
+Hay que colocar la cámara del lado izquierdo a la pantalla. 
+A la hora del cierre de la mano, colocar el dedo pulgar dentro de los dedos anulares.
